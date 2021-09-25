@@ -21,4 +21,4 @@ If you are using a different database other than PostgreSQL, modify the provider
 
 ## Further reading
 
-You for additional reading, you can check out my full blog post [here](https://stackfive.io/blog/simple-prisma-seeding).
+You for additional reading, you can check out my full blog post [here](https://stackfive.io/blog/seeding-relational-data-with-prisma).
